@@ -1,0 +1,17 @@
+# Topico del reporte
+- Cierre del primer cuatrimestre de la empresa
+
+# Notas
+- Nota 1: Se realizaran estudios contables en el siguiente mes 
+- Nota 2: Se realizara inventario general
+- Nota 3: Se estudiaran y generaremos reportes sobre los casos iniciados el presente año
+
+# Dificultades
+- La parte contable es bastante extensa para terminar en un mes
+- El inventario general conlleva muchos costos operativos
+- Los casos iniciados el presente año son de mayor dificultad que los anteriores
+
+# Hallazgos
+- Los reportes contables son bastante buenos
+- El inventario general esta al dia
+- Se ha tomado buenas decisiones sobre la creacion de las diferentes soluciones medicas

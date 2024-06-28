@@ -1,0 +1,17 @@
+# Topico del reporte
+- Mal olor en las personas
+
+# Notas
+- Nota 1: Se inicia el seguimiento de los usuarios
+- Nota 2: Se elabora una base de datos con los resultados
+- Nota 3: Se analiza si continua la producción de la vacuna
+
+# Dificultades
+- La aceptación inicial no ha sido la esperada
+- El costo de venta es elevado
+- Valoración de seguir con la produccion de la vacuna
+
+# Hallazgos
+- La aceptación de la vacuna no ha sido la esperada pero no es mala
+- Se valora el seguimiento del proyecto en general
+- Se estudian costos, de la mano de las ventas en el primer lanzamiento
